@@ -21,4 +21,4 @@ I did not create any of the models in this repository, they're property of the [
 
 - A big thank you to Kirіsame the Awesome Witch! for maintaining the models and making the decompiled sources public.
 
-- The original models can be downloaded on the [THF2 steam group page](https://steamcommunity.com/groups/TouhouFortress2/discussions/1/530645446312218115/).
+- The original models can be downloaded from this [THF2 group discussion](https://steamcommunity.com/groups/TouhouFortress2/discussions/1/530645446312218115/).
