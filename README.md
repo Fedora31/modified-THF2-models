@@ -1,4 +1,4 @@
-# modified THF2 player models
+# nhm THF2 player models
 
 These files are modified/fixed versions of the ones you can find on the [Touhou TF2 Vote](https://steamcommunity.com/groups/TouhouFortress2) steam group. They were recompiled to work with Jarateking's no-hats-mod which can be generated with [CleanTF2plus](https://github.com/JarateKing/CleanTF2plus).
 
