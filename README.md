@@ -4,7 +4,7 @@ These files are modified/fixed versions of the ones you can find on the [Touhou 
 
 - The player models' eyes are fixed and don't look like those of a sheep.
 
-- The bodygroups were removed to allow the models to work with a no-hats-mod.
+- The bodygroups were removed to allow the models to work nicer with a no-hats-mod.
 
 ### Bugs
 
