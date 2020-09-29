@@ -6,8 +6,8 @@ These files are modified/fixed versions of the ones you can find on the [Touhou 
 
 - Removed bodygroups to allow the models to work nicer with the no-hats-mod.
 
-![nhm1](https://purplekiwi.xyz/images/thnhm1.png)
-![nhm2](https://purplekiwi.xyz/images/thnhm2.png)
+![nhm1](assets/thnhm1.png)
+![nhm2](assets/thnhm2.png)
 
 ### Bugs
 
